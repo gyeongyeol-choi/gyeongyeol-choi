@@ -1,3 +1,13 @@
+<h3 align="center">:trophy: Trophy :trophy:</h3>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=gyeongyeol-choi&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+<h3 align="center">:trophy: Github Stats :trophy:</h3>
+
+![gyeongyeol's github stats](https://github-readme-stats.vercel.app/api?username=gyeongyeol-choi&show_icons=true)
+[![gyeongyeol's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongyeol-choi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gyeongyeol-choi)
 
 <h3 align="center">:trophy: Tech Stack :trophy:</h3>
 
