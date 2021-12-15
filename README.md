@@ -1,7 +1,7 @@
 <h3 align="center">:trophy: Trophy :trophy:</h3>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=gyeongyeol-choi&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=gyeongyeol-choi" />
 </p>
 
 <h3 align="center">:trophy: Github Stats :trophy:</h3>
