@@ -4,7 +4,7 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=gyeongyeol-choi" />
 </p>
-
+https://github-profile-trophy.vercel.app/?username=gyeongyeol-choi
 
 <h3 align="center">:computer: Github Stats :computer:</h3>
 
