@@ -1,13 +1,16 @@
 <h3 align="center">:trophy: Trophy :trophy:</h3>
 
+
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=gyeongyeol-choi" />
 </p>
+
 
 <h3 align="center">:computer: Github Stats :computer:</h3>
 
 ![gyeongyeol's github stats](https://github-readme-stats.vercel.app/api?username=gyeongyeol-choi&show_icons=true)
 [![gyeongyeol's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongyeol-choi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gyeongyeol-choi)
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
