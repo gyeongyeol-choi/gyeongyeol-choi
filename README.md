@@ -11,9 +11,7 @@
 [![gyeongyeol's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongyeol-choi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gyeongyeol-choi)
 
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-<p align="center"> My Programming / Management Skills </p>
+<h3 align="center">🛠 Languages and Tools 🛠</h3>
 
 <p align="center">
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
