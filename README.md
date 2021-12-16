@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=gyeongyeol-choi" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=gyeongyeol-choi&column=7&margin-w=15&margin-h=15" />
 </p>
 
 <h3 align="center">:computer: Github Stats :computer:</h3>
