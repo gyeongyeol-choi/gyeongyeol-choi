@@ -21,14 +21,18 @@
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img alt="Hibernate" src ="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/>
   <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
+  <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img alt="Terraform" src ="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=Terraform&logoColor=white"/>
   <img alt="amazonaws" src ="https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Ansible" src ="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=Ansible&logoColor=white"/>
   <img alt="ManageIQ" src ="https://img.shields.io/badge/ManageIQ-EF2929.svg?&style=for-the-badge&logo=ManageIQ&logoColor=white"/>
+  <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
+  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-3E4348.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
   <img alt="Redmine" src ="https://img.shields.io/badge/Redmine-B32024.svg?&style=for-the-badge&logo=Redmine&logoColor=white"/>
-  <img alt="Notion" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
+  <img alt="Notion" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
  </p>
 
 <h3 align="center">:1st_place_medal: Certificate :1st_place_medal:</h3>
