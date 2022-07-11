@@ -28,6 +28,7 @@
   <img alt="Ansible" src ="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=Ansible&logoColor=white"/>
   <img alt="ManageIQ" src ="https://img.shields.io/badge/ManageIQ-EF2929.svg?&style=for-the-badge&logo=ManageIQ&logoColor=white"/>
   <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <img alt="Swagger" src ="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=white"/>
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
   <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-3E4348.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
