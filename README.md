@@ -17,10 +17,18 @@
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img alt="Hibernate" src ="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/>
   <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
   <img alt="Terraform" src ="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=Terraform&logoColor=white"/>
   <img alt="amazonaws" src ="https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Ansible" src ="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=Ansible&logoColor=white"/>
+  <img alt="ManageIQ" src ="https://img.shields.io/badge/ManageIQ-EF2929.svg?&style=for-the-badge&logo=ManageIQ&logoColor=white"/>
+  <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
+  <img alt="Slack" src ="https://img.shields.io/badge/Slack-3E4348.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
+  <img alt="Redmine" src ="https://img.shields.io/badge/Redmine-B32024.svg?&style=for-the-badge&logo=Redmine&logoColor=white"/>
+  <img alt="Notion" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
  </p>
 
 <h3 align="center">:1st_place_medal: Certificate :1st_place_medal:</h3>
