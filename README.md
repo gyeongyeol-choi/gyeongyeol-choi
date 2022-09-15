@@ -34,7 +34,7 @@
   <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-3E4348.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
   <img alt="Redmine" src ="https://img.shields.io/badge/Redmine-B32024.svg?&style=for-the-badge&logo=Redmine&logoColor=white"/>
-  <img alt="Notion" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img alt="Notion" src ="https://img.shields.io/badge/Notion-DC382D.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
  </p>
 
 <h3 align="center">:1st_place_medal: Certificate :1st_place_medal:</h3>
