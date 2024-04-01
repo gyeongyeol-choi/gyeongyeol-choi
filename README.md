@@ -44,4 +44,14 @@
 src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
 style="height : 100px; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://www.credly.com/badges/32cdf064-53fb-41ef-a9aa-e9094e5898fb/public_url">
+<img
+src="https://images.credly.com/size/340x340/images/72bded3f-bf43-4c72-be5f-dc489df54c60/Red_Hat_OpenStack_Administration_I__Core_Operations_for_Domain_Operators.png"
+style="height : 100px; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://www.credly.com/badges/69881102-17aa-4210-a23c-fc0e5f0fbe4b/public_url">
+<img
+src="https://images.credly.com/size/340x340/images/ea182e9f-721f-4b8c-9cb9-4744bcea9524/Red_Hat_OpenStack_Administration_II__Day_2_Operations_for_Cloud_Operators.png"
+style="height : 100px; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </p>
