@@ -65,3 +65,21 @@ src="https://images.credly.com/size/340x340/images/ea182e9f-721f-4b8c-9cb9-4744b
 style="height : 100px; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </p>
+
+<h3 align="center">:page_facing_up: Publications :page_facing_up:</h3>
+
+- **[Barrier-Enabled IO Stack for Flash Storage](https://www.usenix.org/conference/fast18/presentation/won)** — *16th USENIX Conference on File and Storage Technologies (FAST '18)*, 2018 🏆 **Best Paper Award**
+  - Youjip Won, Jaemin Jung, **Gyeongyeol Choi**, Joontaek Oh, Seongbae Son, Jooyoung Hwang, Sangyeun Cho
+- **[Analysis for the performance degradation of fsync() in F2FS](https://dl.acm.org/doi/abs/10.1145/3183586.3183605)** — *ACM IC4E '18 (9th International Conference on E-Education, E-Business, E-Management and E-Learning)*, pp. 71–75, 2018
+  - **Gyeongyeol Choi**, Youjip Won
+- **[Coarse-grained mtime update for better fsync() performance](https://dl.acm.org/doi/abs/10.1145/3019612.3019739)** — *ACM SAC '17 (32nd ACM SIGAPP Symposium on Applied Computing)*, 2017
+  - Hankeun Son, Seongjin Lee, **Gyeongyeol Choi**, Youjip Won
+- **F2FS 파일 시스템의 fsync() 성능 저하 요인 분석 (fsync() Performance Degradation in F2FS)** — Hanyang University
+  - **최경열**, 원유집
+- **MOST Viewer: MOST(MObile STorage analyzer) 기반의 트레이스 시각화 도구 (MOST Viewer: Visualization Tool for the Trace based on MOST(MObile STorage analyzer))** — *한국정보과학회 동계학술발표회 (KIISE)*, 2016
+  - **최경열**, 원유집
+
+<h3 align="center">:bulb: Patents :bulb:</h3>
+
+- **[더미 입출력 요청을 이용한 배리어 명령 전달 방법 및 그 장치](https://doi.org/10.8080/1020190015743)**
+  - 등록번호: `KR 10-2262209` (`1022622090000`) | 등록일: `2021.06.02` | 출원번호: `10-2018-0015978` | 출원인: 한양대학교산학협력단
