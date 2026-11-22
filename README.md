@@ -1,14 +1,24 @@
-<h3 align="center">:trophy: Trophy :trophy:</h3>
-
-
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=gyeongyeol-choi&column=7&margin-w=15&margin-h=15" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=gyeongyeol-choi&color=004386&style=for-the-badge" />
 </p>
 
-<h3 align="center">:computer: Github Stats :computer:</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gyeongyeol-choi/gyeongyeol-choi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gyeongyeol-choi/gyeongyeol-choi/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/gyeongyeol-choi/gyeongyeol-choi/output/github-snake.svg" />
+  </picture>
+</p>
 
-![gyeongyeol's github stats](https://github-readme-stats.vercel.app/api?username=gyeongyeol-choi&show_icons=true)
-[![gyeongyeol's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongyeol-choi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&hide=javascript)](https://github.com/gyeongyeol-choi)
+<h3 align="center">:computer: Github Stats & Streak :computer:</h3>
+
+<p align="center">
+  <img alt="GitHub Metrics" src="metrics.svg" />
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=gyeongyeol-choi&hide_border=true" />
+</p>
 
 <h3 align="center">🛠 Languages and Tools 🛠</h3>
 
