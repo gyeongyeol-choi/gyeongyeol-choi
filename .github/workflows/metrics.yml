@@ -29,14 +29,3 @@ jobs:
 
           # 코드 변경 라인 수
           plugin_lines: yes
-
-          # 활동 습관 요약
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-
-          # 업적 (기존 trophy 대체)
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 3
-          plugin_achievements_ignored: manager
